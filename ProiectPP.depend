@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1546087370 source:d:\proiectpp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1588523695 source:d:\pp\proiectpp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
